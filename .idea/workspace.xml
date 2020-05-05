@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="19a0c545-f47c-4e89-859e-2c7f543a32b7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapters/02_linked_lists/_202_Return_kth_to_Last/TesterClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapters/02_linked_lists/_202_Return_kth_to_Last/TesterClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588612834949</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="chapter 2 - fixed tester">
+      <created>1588613102757</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588613102757</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -176,7 +182,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="updated gitignore" />
     <MESSAGE value="chapter 2 addons" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 2 addons" />
+    <MESSAGE value="chapter 2 - fixed tester" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 2 - fixed tester" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Notifications" timestamp="1588607502657">
@@ -191,10 +198,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/-1920.-126.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1588610834182" />
-    <state x="513" y="114" key="CommitChangelistDialog2" timestamp="1588612832652">
+    <state x="513" y="114" key="CommitChangelistDialog2" timestamp="1588613100334">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="513" y="114" key="CommitChangelistDialog2/-1920.-126.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1588612832652" />
+    <state x="513" y="114" key="CommitChangelistDialog2/-1920.-126.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1588613100334" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1588590300054">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -243,10 +250,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="639" y="254" key="VcsDiffUtil.ChangesDialog/-1920.-126.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1588607682343" />
-    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588611889341">
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588698359136">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.-126.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1588611889341" />
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.-126.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1588698359135" />
     <state x="615" y="311" key="git4idea.merge.GitPullDialog" timestamp="1588590235843">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
