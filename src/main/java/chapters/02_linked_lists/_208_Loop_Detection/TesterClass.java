@@ -11,7 +11,7 @@ public class TesterClass {
 
     public static void main(String[] args) {
         Node l1 = new Node(10);
-        Node l2 = new Node(11); // will be beginning of loop.
+        Node l2 = new Node(11);
         Node l3 = new Node(15);
         Node l4 = new Node(16);
         l1.next = l2;

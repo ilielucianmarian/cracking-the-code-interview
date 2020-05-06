@@ -22,6 +22,30 @@ public class Node {
         }
    }
 
+    /**
+     * Create node from value and append it to tail
+     * @param value
+     */
+    public void appendToTailNode(int value) {
+        Node current = this;
+        while (current.next != null) {
+            current = current.next;
+        }
+        current.next = new Node(value);
+    }
+
+    /**
+     * Append existing node to tail
+     * @param node
+     */
+    public void appendToTailNode(Node node) {
+        Node current = this;
+        while (current.next != null) {
+            current = current.next;
+        }
+        current.next = node;
+    }
+
 
 
 }
